@@ -1,4 +1,4 @@
-package com.devcognitio.todo;
+package com.devcognitio.todo.jbehave;
 
 import net.serenitybdd.jbehave.SerenityStories;
 

@@ -111,9 +111,7 @@
                 <version>2.18.1</version>
                 <configuration>
                     <includes>
-                        <include>**/features/**/*.java</include>
                         <include>**/jbehave/**/*.java</include>
-                        <include>**/cucumber/*.java</include>
                     </includes>
                     <excludes>
                         <exclude>**/*WithFailures.java</exclude>
@@ -178,9 +176,7 @@
                         <version>2.18.1</version>
                         <configuration>
                             <includes>
-                                <include>**/features/**/*.java</include>
                                 <include>**/jbehave/**/*.java</include>
-                                <include>**/cucumber/*.java</include>
                                 <include>**/*WithFailures.java</include>
                             </includes>
                             <argLine>-Xmx512m</argLine>

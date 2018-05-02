@@ -4,7 +4,7 @@ Base para trabajo con Serenity, JBehave y Maven
 Es una demostración simple de un proyecto con pruebas para la aplicación: http://todomvc.com/examples/angularjs/#/.
 
 -------------
-###Requisitos
+### Requisitos
 
 El proyecto corre usando JDK 1.8 y Maven. 
 
@@ -20,7 +20,8 @@ webdriver.chrome.driver = miRuta/chromedriver
 Tambien puedes eliminar la ruta del driver del archivo y configurarla en el path de tu Sistema Operativo.
 (Opción recomendada por la documentación de SerenityBDD)
 -------------
-###Ejecución
+
+### Ejecución
 Para ejecutar el proyecto, lanzar en consola:
 
 ```
